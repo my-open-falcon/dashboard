@@ -13,7 +13,7 @@ dashboard是提供给用户，以图表的方式查看push上来的数据
 
 ## Install dependency
 
-    # yum install -y python-virtualenv
+    # pip install virtualenv
 
     $ cd $HOME/open-falcon/dashboard/
     $ virtualenv ./env
