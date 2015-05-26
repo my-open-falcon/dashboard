@@ -8,7 +8,7 @@ dashboard是提供给用户，以图表的方式查看push上来的数据
     $ export HOME=/home/work/
 
     $ mkdir -p $HOME/open-falcon/
-    $ cd $HOME/open-falcon && git clone https://github.com/open-falcon/dashboard.git
+    $ cd $HOME/open-falcon && git clone https://github.com/my-open-falcon/dashboard.git
     $ cd dashboard;
 
 ## Install dependency
